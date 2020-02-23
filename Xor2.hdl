@@ -3,7 +3,7 @@
 // by Nisan and Schocken, MIT Press.
 
 /**
-* Exclusive Or gate: out = !(a==b).
+* Exclusive Or gate: out = !(a==b) from Nand gates.
 */
 
 
