@@ -15,5 +15,4 @@ CHIP And{
 	Nand (a=a, b=b, out=out0);
 	Nand (a=a, b=b, out=out1);
 	Nand (a=out0, b=out1, out=out);
-
 }
