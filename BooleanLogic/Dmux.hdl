@@ -14,7 +14,7 @@ CHIP Dmux{
 
 	PARTS:
 	Not (in=sel, out=notsel);
-	And (a=in, b=notsel, out=out1);
-	And (a=in, b=sel, out=out2);
+	And (a=in, b=notsel, out=a);
+	And (a=in, b=sel, out=b);
 	
 }
