@@ -8,7 +8,7 @@
 *	else {a,b}={0,in}
 /*
 
-CHIP Dmux{
+CHIP DMux{
 	IN in, sel;
 	OUT a, b;
 
