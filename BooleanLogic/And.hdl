@@ -2,6 +2,7 @@
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
 
+
 /**
 *	 if (a==1 and b==1) then out=1
 *	 else put=0 
